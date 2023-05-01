@@ -1,0 +1,5 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"5638","Primary biliary cirrhosis","J616000","","CPRD_GOLD"
+"7957","Autoimmune chronic active hepatitis","J614111","","CPRD_GOLD"
+"15425","Primary sclerosing cholangitis","J661700","","CPRD_GOLD"
+"18652","Autoimmune hepatitis","J63B.00","","CPRD_GOLD"
