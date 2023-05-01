@@ -1,0 +1,5 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"6139","Chronic post-traumatic headache","F29y500","","CPRD_GOLD"
+"98205","[X]Chronic headache disorder","Fyu5E00","","CPRD_GOLD"
+"101339","Chronic paroxysmal hemicrania","F262700","","CPRD_GOLD"
+"103537","Chronic tension-type headache","F262B00","","CPRD_GOLD"
