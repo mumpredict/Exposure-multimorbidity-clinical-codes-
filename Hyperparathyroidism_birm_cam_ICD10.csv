@@ -1,0 +1,6 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"E21","Hyperparathyroidism and other disorders of parathyroid gland","E21","","ICD10"
+"E210","Primary hyperparathyroidism","E21.0","","ICD10"
+"E211","Secondary hyperparathyroidism, not elsewhere classified","E21.1","","ICD10"
+"E212","Other hyperparathyroidism","E21.2","","ICD10"
+"E213","Hyperparathyroidism, unspecified","E21.3","","ICD10"
