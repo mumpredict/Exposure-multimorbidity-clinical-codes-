@@ -1,0 +1,5 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"L21","Seborrhoeic dermatitis","L21","","ICD10"
+"L210","Seborrhoea capitis","L21.0","","ICD10"
+"L218","Other seborrhoeic dermatitis","L21.8","","ICD10"
+"L219","Seborrhoeic dermatitis, unspecified","L21.9","","ICD10"

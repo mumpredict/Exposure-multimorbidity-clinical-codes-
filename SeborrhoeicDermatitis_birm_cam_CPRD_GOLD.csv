@@ -1,0 +1,6 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"359","Seborrhoeic dermatitis","M101.00","","CPRD_GOLD"
+"653","Seborrhoeic eczema","M101.12","","CPRD_GOLD"
+"3453","Seborrhoea capitis","M244.11","","CPRD_GOLD"
+"7425","Seborrhoeic dermatitis capitis","M101.11","","CPRD_GOLD"
+"48473","[X]Other seborrhoeic dermatitis","Myu2000","","CPRD_GOLD"

@@ -1,0 +1,6 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"1786078018","Tension headache","E278100","398057008","CPRD_AURUM"
+"359201000006116","[X]Tension type headache","F262600","398057008","CPRD_AURUM"
+"1756651000000117","Frequent episodic tension-type headache","F262A00","722982003","CPRD_AURUM"
+"1754211000000113","Infrequent episodic tension-type headache","F262900","722981005","CPRD_AURUM"
+"5008371000006119","Episodic tension-type headache","","230470007","CPRD_AURUM"

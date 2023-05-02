@@ -1,0 +1,5 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"L71","Rosacea","L71","","ICD10"
+"L711","Rhinophyma","L71.1","","ICD10"
+"L718","Other rosacea","L71.8","","ICD10"
+"L719","Rosacea, unspecified","L71.9","","ICD10"

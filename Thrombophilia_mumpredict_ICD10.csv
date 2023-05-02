@@ -1,0 +1,3 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"D685","Primary Thrombophilia","D68.5","","ICD10"
+"D686","Other Thrombophilia","D68.6","","ICD10"

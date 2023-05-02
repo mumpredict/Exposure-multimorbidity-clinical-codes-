@@ -1,0 +1,5 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"191","Tension headache","E278100","","CPRD_GOLD"
+"7512","[X]Tension type headache","F262600","","CPRD_GOLD"
+"103755","Frequent episodic tension-type headache","F262A00","","CPRD_GOLD"
+"103899","Infrequent episodic tension-type headache","F262900","","CPRD_GOLD"
