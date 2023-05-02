@@ -1,0 +1,7 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"2321","Pituitary adenoma","B7H2.11","","CPRD_GOLD"
+"5706","Benign neoplasm of pituitary gland and craniopharyngeal duct","B7H2.00","","CPRD_GOLD"
+"5707","[M]Prolactinoma","BB5y400","","CPRD_GOLD"
+"20267","Benign neoplasm of pituitary gland","B7H2000","","CPRD_GOLD"
+"55379","Benign neoplasm of craniopharyngeal duct","B7H2300","","CPRD_GOLD"
+"71886","Benign neoplasm of pituitary and craniopharyngeal duct NOS","B7H2z00","","CPRD_GOLD"
