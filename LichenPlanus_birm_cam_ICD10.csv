@@ -1,0 +1,8 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"L43","Lichen planus","L43","","ICD10"
+"L430","Hypertrophic lichen planus","L43.0","","ICD10"
+"L431","Bullous lichen planus","L43.1","","ICD10"
+"L433","Subacute (active) lichen planus","L43.3","","ICD10"
+"L438","Other lichen planus","L43.8","","ICD10"
+"L439","Lichen planus, unspecified","L43.9","","ICD10"
+"L661","Lichen planopilaris","L66.1","","ICD10"
