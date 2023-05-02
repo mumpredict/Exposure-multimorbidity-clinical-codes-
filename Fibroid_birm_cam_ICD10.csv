@@ -1,0 +1,6 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"D25","Leiomyoma of uterus","D25","","ICD10"
+"D250","Submucous leiomyoma of uterus","D25.0","","ICD10"
+"D251","Intramural leiomyoma of uterus","D25.1","","ICD10"
+"D252","Subserosal leiomyoma of uterus","D25.2","","ICD10"
+"D259","Leiomyoma of uterus, unspecified","D25.9","","ICD10"
